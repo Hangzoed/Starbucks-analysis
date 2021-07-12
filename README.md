@@ -29,6 +29,9 @@ This section should list any major frameworks that you built your project using.
 * [Seaborn](https://seaborn.pydata.org)
 * [Matplot](https://matplotlib.org)
 
+This [Medium](https://omeradelez.medium.com/starbucks-1f65bf7dee00) article contain further expalinaton about the notebook.
+
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
